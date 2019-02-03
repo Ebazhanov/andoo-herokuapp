@@ -1,5 +1,16 @@
 # herokuapp
 
+#### Tech stack: Java 8, Maven and libraries: Selenide, Allure, Testng 
+
+### Set up
+
+You will need the following technologies available to try it out:
+* Git
+* Maven 3+
+* JDK 8
+* IDE of your choice 
+* Web browser Chrome
+
 ### How to run 
 
 ```mvn clean test```
